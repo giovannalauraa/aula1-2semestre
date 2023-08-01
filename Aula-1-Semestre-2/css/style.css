@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Borel&display=swap');
+body{
+    background-color: #be7abb;
+}
+
+#justi-titulo{
+    height: 8vh;
+    background-color: #642764;
+}
+
+h1{
+    font-family: 'Borel', cursive;
+    padding-top: 3vh;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 1em rgb(160, 54, 164), 0 0 0.2em rgb(255, 0, 255);
+}
+
+#ate-mais{
+    color: white;
+    text-align: center;
+    font-family: 'Borel', cursive;
+}
+
+#baby-musica{
+    color: white;
+    text-align: center;
+    font-family: 'Borel', cursive;
+}
+
+#imagem1{
+    display: block;
+    margin: 0px auto;
+    box-shadow: 3px 3px rgb(136, 83, 160), -1em 0 0.4em rgb(211, 18, 189);
+}
+
+#div1{
+    color: white;
+    text-align: center;
+    font-family: 'Borel', cursive;
+}
+
